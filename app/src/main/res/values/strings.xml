@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">room-demo</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_address">Enter address</string>
+    <string name="add_text">Add</string>
+    <string name="delete_text">Delete</string>
+    <string name="fetch_text">Fetch</string>
+    <string name="student_id_text">Enter Student id</string>
+</resources>
