@@ -46,8 +46,8 @@ public class StudentDataModel extends AndroidViewModel {
         }
 
         @Override
-        protected Void doInBackground(Student... githubUserEntityModels) {
-            Long id = database.getStudentDao().addStudent(githubUserEntityModels[0]);
+        protected Void doInBackground(Student... students) {
+            Long id = database.getStudentDao().addStudent(students[0]);
             return null;
         }
     }
